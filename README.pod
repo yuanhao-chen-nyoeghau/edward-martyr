@@ -1,0 +1,5 @@
+=begin html
+
+<h3>Hi there 👋</h3><p><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=edward-martyr&include_all_commits=true&show_icons=true&hide_rank=true&hide=contribs&title_color=304c9e&icon_color=456bd9" width="500px"/></a></p><p><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edward-martyr&layout=compact&card_width=416&title_color=304c9e" width="500px"/></a></p>
+
+=end html
